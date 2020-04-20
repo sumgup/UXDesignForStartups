@@ -1,0 +1,23 @@
+{
+  "aspectWidth": 16,
+  "aspectHeight": 9,
+  "enableKeyboardZoom": true,
+  "enableKeyboardRotation": true,
+  "enableKeyboardNavigation": true,
+  "enableMouseTranslation": true,
+  "enableMouseZoom": true,
+  "enableMouseRotation": true,
+  "enableMouseNavigation": true,
+  "frames": [],
+  "elementsToHide": [],
+  "selectedFrames": [],
+  "selectedLayers": [
+    "layer1",
+    "layer4",
+    "layer3",
+    "layer2",
+    "g1154",
+    "__sozi_auto__"
+  ],
+  "editableLayers": []
+}
