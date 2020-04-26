@@ -17,7 +17,12 @@
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="fonttest.svg">
   <defs
-     id="defs2345" />
+     id="defs2345">
+    <style
+       id="style815">
+            @import url(&quot;https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&quot;);
+        </style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,8 +31,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="308.35091"
-     inkscape:cy="684.0991"
+     inkscape:cx="316.20805"
+     inkscape:cy="563.38482"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,5 +79,38 @@
          x="37.419643"
          y="118.78423"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';stroke-width:0.26458332">This is Custom Font AMATIC SC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:amatic;-inkscape-font-specification:amatic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="39.120533"
+       y="142.40773"
+       id="text2944"><tspan
+         sodipodi:role="line"
+         id="tspan2942"
+         x="39.120533"
+         y="142.40773"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC Bold';stroke-width:0.26458332">This is Amatic SC Bold</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:amatic;-inkscape-font-specification:amatic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="39.876488"
+       y="165.84227"
+       id="text830"><tspan
+         sodipodi:role="line"
+         id="tspan828"
+         x="39.876488"
+         y="165.84227"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue';stroke-width:0.26458332">This is Comic Neue Regular</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:amatic;-inkscape-font-specification:amatic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="41.733215"
+       y="183.19212"
+       id="text830-9"><tspan
+         sodipodi:role="line"
+         id="tspan828-4"
+         x="41.733215"
+         y="183.19212"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';stroke-width:0.26458332">This is Comic Neue Bold</tspan></text>
   </g>
 </svg>
